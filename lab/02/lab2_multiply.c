@@ -10,7 +10,7 @@ int b ;
   printf("enter your second number :");
   scanf("%d",&b);
   int mult= a * b ;
-  printf("sum of both number%d",mult);
+  printf("multiplication of both number%d",mult);
 return 0;
   
 }
