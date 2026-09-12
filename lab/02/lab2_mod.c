@@ -10,7 +10,7 @@ int b ;
   printf("enter your second number :");
   scanf("%d",&b);
   int mod= a % b ;
-  printf("sum of both number%d",mod);
+  printf("mod of both number%d",mod);
 return 0;
   
 }
