@@ -9,7 +9,7 @@ int b ;
   printf("enter your second number :");
   scanf("%d",&b);
   int subt= a - b ;
-  printf("sum of both number%d",subt);
+  printf("subtraction of both number%d",subt);
 return 0;
   
 }
