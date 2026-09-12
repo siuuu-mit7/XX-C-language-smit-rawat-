@@ -10,7 +10,7 @@ int b ;
   printf("enter your second number :");
   scanf("%d",&b);
   int div= a / b ;
-  printf("sum of both number%d",div);
+  printf("division of both number%d",div);
 return 0;
   
 }
